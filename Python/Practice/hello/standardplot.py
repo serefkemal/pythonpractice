@@ -6,3 +6,4 @@ plt.plot(x, np.sin(x))
 plt.show()
 #08Nov19-19:22
 #asd autodansonrasi
+#vscode terminal
